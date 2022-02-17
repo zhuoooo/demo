@@ -8,6 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "element-plus": "^2.0.2",
+    "sortablejs": "^1.14.0",
     "vue": "^3.2.25"
   },
   "devDependencies": {
