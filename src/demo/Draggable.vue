@@ -78,8 +78,7 @@ onMounted(() => {
         onEnd() {
             // 不管有没有进行拖拽移动，都会触发
         },
-        onMove() {
-        },
+        onMove() {},
         onUpdate() {
             // 这里去发起请求
             // 刷新列表
